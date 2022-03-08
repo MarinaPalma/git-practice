@@ -1,2 +1,3 @@
 Name: Marina Palma
 Favorite color: green
+Weather: sunny
